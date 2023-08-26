@@ -3,7 +3,7 @@
 import threading
 import queue
 import whisper
-from recorder import record_audio
+from hotmic import record_audio
 from transcriber import transcribe_audio
 
 if __name__=="__main__":
