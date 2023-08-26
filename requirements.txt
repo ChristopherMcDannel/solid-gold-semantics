@@ -1,0 +1,10 @@
+pandas
+wavio
+scipy
+scikit-learn
+openai
+openai_whisper
+gTTS
+gradio
+plotly
+requests
